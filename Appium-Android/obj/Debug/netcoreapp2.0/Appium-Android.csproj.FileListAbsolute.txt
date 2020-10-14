@@ -1,0 +1,14 @@
+C:\Users\Alexandre.DESKTOP-2TBN4PM\Desktop\Appium-Android\Appium-Android\Appium-Android\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\Alexandre.DESKTOP-2TBN4PM\Desktop\Appium-Android\Appium-Android\Appium-Android\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+C:\Users\Alexandre.DESKTOP-2TBN4PM\Desktop\Appium-Android\Appium-Android\Appium-Android\bin\Debug\netcoreapp2.0\nunit.engine.dll
+C:\Users\Alexandre.DESKTOP-2TBN4PM\Desktop\Appium-Android\Appium-Android\Appium-Android\bin\Debug\netcoreapp2.0\nunit.engine.api.dll
+C:\Users\Alexandre.DESKTOP-2TBN4PM\Desktop\Appium-Android\Appium-Android\Appium-Android\bin\Debug\netcoreapp2.0\nunit.engine.core.dll
+C:\Users\Alexandre.DESKTOP-2TBN4PM\Desktop\Appium-Android\Appium-Android\Appium-Android\bin\Debug\netcoreapp2.0\Appium-Android.deps.json
+C:\Users\Alexandre.DESKTOP-2TBN4PM\Desktop\Appium-Android\Appium-Android\Appium-Android\bin\Debug\netcoreapp2.0\Appium-Android.dll
+C:\Users\Alexandre.DESKTOP-2TBN4PM\Desktop\Appium-Android\Appium-Android\Appium-Android\bin\Debug\netcoreapp2.0\Appium-Android.pdb
+C:\Users\Alexandre.DESKTOP-2TBN4PM\Desktop\Appium-Android\Appium-Android\Appium-Android\obj\Debug\netcoreapp2.0\Appium-Android.csprojAssemblyReference.cache
+C:\Users\Alexandre.DESKTOP-2TBN4PM\Desktop\Appium-Android\Appium-Android\Appium-Android\obj\Debug\netcoreapp2.0\Appium-Android.AssemblyInfoInputs.cache
+C:\Users\Alexandre.DESKTOP-2TBN4PM\Desktop\Appium-Android\Appium-Android\Appium-Android\obj\Debug\netcoreapp2.0\Appium-Android.AssemblyInfo.cs
+C:\Users\Alexandre.DESKTOP-2TBN4PM\Desktop\Appium-Android\Appium-Android\Appium-Android\obj\Debug\netcoreapp2.0\Appium-Android.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre.DESKTOP-2TBN4PM\Desktop\Appium-Android\Appium-Android\Appium-Android\obj\Debug\netcoreapp2.0\Appium-Android.dll
+C:\Users\Alexandre.DESKTOP-2TBN4PM\Desktop\Appium-Android\Appium-Android\Appium-Android\obj\Debug\netcoreapp2.0\Appium-Android.pdb
